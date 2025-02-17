@@ -15,4 +15,4 @@ I enjoy solving real-world problems with data, whether it's uncovering trends, p
 [Restaurant Recommendation System]() - A Yelp API project analyzing restaurant data.  
 
 ## 📫 Connect with Me   
-[LinkedIn](https://www.linkedin.com/in/ashna-batra/)  
+[LinkedIn](https://www.linkedin.com/in/ashna-batra-ab96212a5/)  
