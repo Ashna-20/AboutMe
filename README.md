@@ -12,7 +12,7 @@ I enjoy solving real-world problems with data, whether it's uncovering trends, p
 - Data Visualization  
 
 ## Projects  
-[Restaurant Recommendation System]() - A Yelp API project analyzing restaurant data.  
+[Restaurant Recommendation System](https://github.com/Ashna-20/AboutMe/blob/main/Restaurant_Locator_System.ipynb) - A Yelp API project analyzing restaurant data.  
 
 ## 📫 Connect with Me   
 [LinkedIn](https://www.linkedin.com/in/ashna-batra-ab96212a5/)  
